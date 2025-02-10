@@ -138,7 +138,7 @@
 <!ENTITY gsettings.geckiumYouDisclaimer	"Le style Chrome 58 n'est pas supporté par Geckium You">
 <!ENTITY gsettings.grey					"Gris">
 <!ENTITY gsettings.w3cAccentColor		"Couleur d'accentuation">
-<!ENTITY gsettings.rgb		            "RGB">
+<!ENTITY gsettings.rgb					"RVB">
 <!ENTITY gsettings.custom				"Personnalisé…">
 <!ENTITY gsettings.wincolor				"Couleur de la fenêtre">
 
